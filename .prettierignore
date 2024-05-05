@@ -1,0 +1,14 @@
+# Ignore all files in the "dist" directory
+dist/
+
+# Ignore specific file types
+*.log
+*.txt
+
+# Ignore files in a specific directory
+src/assets/
+
+# Ignore files with a specific name
+config.js
+
+.next

@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "title": "Genshin Impact Wiki Database",
+    "description": "一款宿舍拼图在线工具，解决俄罗斯方块难题！",
+    "home": "首页",
+    "contact": "联系",
+    "blog": "博客"
+  },
+  "controls": {
+    "row": "行数",
+    "column": "列数",
+    "mostUsedBlock": "尽可能多使用",
+    "mostRemainingBlock": "尽可能少使用",
+    "tetrimino": "方块"
+  },
+  "tools": {
+    "now": "当前展示方案",
+    "total": "方案数",
+    "calculate": "计算",
+    "calculate_desc": "红色表示需要摆放的格子，白色表示这里没有格子，点击切换。默认尽可能多地使用8号方块，尽可能少地使用9号方块"
+  }
+}

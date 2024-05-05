@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "title": "Snowbreak: Containment Zone Tool",
+    "description": "A dormitory puzzle online tool to solve Tetris puzzles!",
+    "home": "Home",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "controls": {
+    "row": "Rows",
+    "column": "Columns",
+    "mostUsedBlock": "Most Used",
+    "mostRemainingBlock": "Least Used",
+    "tetrimino": "Tetrimino"
+  },
+  "tools": {
+    "now": "currently displayed solution",
+    "total": "number of solutions",
+    "calculate": "calculate",
+    "calculate_desc": "Red indicates the grid that needs to be placed, white indicates there is no grid here, click to switch. The default is to use as many size 8 Tetris blocks as possible and as few size 9 Tetris blocks as possible"
+  }
+}
